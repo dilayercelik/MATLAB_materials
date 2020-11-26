@@ -3,6 +3,8 @@ My MATLAB Learning Resources
 
 Currently: [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab) 9-week long Course, by Vanderbilt University via Coursera
 
+Companion Website of the course: [here](http://cs103.net/)
+
 
 # Content
 
